@@ -43,5 +43,5 @@ My journey in Cyber Security has led me to develop a strong desire for technolog
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/ezeworker/System-Info-Automation-Script-/blob/main/README.md#system-information-gathering-automation-script-System-Information-Gathering-Automation-Script-></a>
 - SOC Automation Project
