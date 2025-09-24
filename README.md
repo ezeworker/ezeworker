@@ -10,12 +10,16 @@ My journey in Cyber Security has led me to develop a strong desire for technolog
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Powershell and Bash Scripting | <a href="https://google.com">System Automation Script</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 
+### Scrpting 
+<div>
+    <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnubash&logoColor=white" />
+</div>
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div> 
