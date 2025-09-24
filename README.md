@@ -10,7 +10,7 @@ My journey in Cyber Security has led me to develop a strong desire for technolog
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Powershell and Bash Scripting | <a href="https://google.com">System Automation Script</a>|
+| Powershell and Bash Scripting | <a href="https://github.com/ezeworker/System-Automation-Script-/blob/main/README.md">System Automation Script</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 
