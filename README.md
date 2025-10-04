@@ -4,7 +4,7 @@
 I am a recent Cyber Security graduate with a strong interest in technology and a dedication to solving Diificult problems. I also love providing value to others through my hard work ethic and innovative solutions. 
 
 ## Objective
-My journey in Cyber Security has led me to develop a strong desire for technology with secuirty in mind, and I am now eager to transition into this field, aiming to work as  OT Security engineer, OT Security anayst . IT Support Engineer, IT Service Desk Analyst , IT Systems Administrator, IT Infrastructure Engineer , SOC Analyst , Cyber Secuirty Consultant and Cyber Security Engineer.
+My journey in Cyber Security has led me to develop a strong desire for technology with secuirty in mind, and I am now eager to transition into this field, aiming to work as  OT Security engineer, OT Security anayst , IT Support Engineer, IT Service Desk Analyst , IT Systems Administrator, IT Infrastructure Engineer , SOC Analyst , Cyber Secuirty Consultant and Cyber Security Engineer.
 
 ## Skills
 
