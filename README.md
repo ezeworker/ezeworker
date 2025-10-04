@@ -43,4 +43,4 @@ My journey in Cyber Security has led me to develop a strong desire for technolog
 
 ## Projects
 <a href="https://github.com/ezeworker/System-Automation-Script-/blob/main/README.md">System Automation Script</a>
-- SOC Automation Project
+<a href="https://github.com/ezeworker/Active-Directory-Home-Lab">Active Directory Home Lab</a>
